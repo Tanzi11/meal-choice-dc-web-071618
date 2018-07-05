@@ -1,3 +1,3 @@
-meal_choice = "meat"
-def meal_choice(x)
+def meal_choice(meal="meat")
+  
 end
